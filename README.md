@@ -1,6 +1,6 @@
 # KtorEnhancedTutorialRequestResponseDemo
 
-Here you can request and response live .you can perform add,delete,update in the code below is the working example :
+Here you can see live request and response that you are making through the postman . you can perform add,delete,update in the code below is the working example that i performed:
 
 GET:
 
